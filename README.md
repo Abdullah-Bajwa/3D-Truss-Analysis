@@ -2,7 +2,7 @@
 
 It is a simple and lightweight program to handily analyse 3D trusses
 
-The code iscompatible with both octave and matlab
+The code is compatible with both octave and matlab
 
 Usage of the files hereby included is subject to MIT License
 

@@ -5,6 +5,7 @@ Usage of the files hereby included is subject to MIT License
 
 
 **Using the Program**
+
 Both files must be opened simultaneously
 The data in trussdata3d.m is to be edited according to the truss that needs to be analyzed
 Detailed explanation for adding the truss data is mentioned inside the files
@@ -15,6 +16,7 @@ truss3D('trussdata3d')
 
 
 **Credits**
+
 The plot of the truss is created using [gplot3](https://www.mathworks.com/matlabcentral/fileexchange/49762-gplot3-plotting-simple-graphs-in-3d) function, courtesy of Chris Mccomb.
 
 This code was developed under the supervison of [Mr. Atique Ahmed](http://dme.pieas.edu.pk/faculty/atique-ahmad/), Dept. of Mechanical Engineering, PIEAS

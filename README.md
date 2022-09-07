@@ -15,7 +15,7 @@ The data in trussdata3d.m is to be edited according to the truss that needs to b
 
 Detailed explanation for adding the truss data is mentioned inside the files
 
-Once the data has been filled, the analysis can be conducted by calling the function 'truss3D()' and passing the file 'trussdata3d)' as the argument.
+Once the data has been filled, the analysis can be conducted by calling the function 'truss3D()' and passing the file 'trussdata3d' as the argument.
 
 For illustration, following text is to be entered into the command window.
 
